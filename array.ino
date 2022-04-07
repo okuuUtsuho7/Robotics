@@ -6,7 +6,7 @@ int LEDpin[5] = { 2, 3, 4, 5, 6 };
 long ranPins;
 
 
-//LEDS
+//Calling all LEDS
 void setup()
 {
 	pinMode(LEDpin[0], OUTPUT); //pin 1
