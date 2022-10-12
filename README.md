@@ -3,3 +3,5 @@ These codes are for Arduino Uno R3!
 
 
 UPDATE: New .ino file has been uploaded! It is about arrays!
+
+UPDATE 2: Okuu can code?
